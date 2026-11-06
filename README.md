@@ -1,2 +1,4 @@
 # dynacloud
-A cloud room decor piece that will react/change in time with music or voices to match the input.
+Our project is DYNACLOUD, which is a decorative cloud that changes color by reacting to music frequencies. The “on switch” on the circuit board will allow the components of the board to properly connect. This will include the audio spectrum analyzer IC, which is the main component of our project. This component is needed to both detect and categorize the sound frequency waves, which will then translate into various colors and patterns of flashing lights. The translation will occur using a Fast Fourier Transfer (FFT) algorithm.
+
+We made DYNACLOUD because we think that personal spaces need to be customized to create the perfect ambience for comfort and style. DYNACLOUD is a product that we wish we had, because it would not only be a cute decor item, but it would also be able to dynamically change to match the current atmosphere of the space.
